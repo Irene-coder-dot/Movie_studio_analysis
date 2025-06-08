@@ -1,5 +1,5 @@
 # Ignore extracted SQLite database
-datasets/im.db
+dataset/im.db
 
 # Ignore zipped version of the database
-datasets/im.db.zip
+dataset/im.db.zip
